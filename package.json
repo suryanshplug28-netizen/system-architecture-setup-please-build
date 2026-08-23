@@ -15,7 +15,8 @@
     "lucide-react": "^0.428.0",
     "recharts": "^2.12.7",
     "clsx": "^2.1.1",
-    "leaflet": "latest"
+    "leaflet": "latest",
+    "@types/leaflet": "latest"
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
